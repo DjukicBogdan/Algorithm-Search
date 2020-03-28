@@ -1,0 +1,7 @@
+C:\Users\bogda\source\repos\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.exe.config
+C:\Users\bogda\source\repos\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.exe
+C:\Users\bogda\source\repos\BinarySearchTest\BinarySearchTest\bin\Debug\BinarySearchTest.pdb
+C:\Users\bogda\source\repos\BinarySearchTest\BinarySearchTest\obj\Debug\BinarySearchTest.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\BinarySearchTest\BinarySearchTest\obj\Debug\BinarySearchTest.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\BinarySearchTest\BinarySearchTest\obj\Debug\BinarySearchTest.exe
+C:\Users\bogda\source\repos\BinarySearchTest\BinarySearchTest\obj\Debug\BinarySearchTest.pdb
